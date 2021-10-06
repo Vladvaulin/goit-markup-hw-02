@@ -1,0 +1,10 @@
+.some-button :hover {
+  background-color: royalblue;
+  color: aliceblue;
+}
+.button1 {
+  background-color: lightgray;
+}
+.button {
+  color: white;
+}
